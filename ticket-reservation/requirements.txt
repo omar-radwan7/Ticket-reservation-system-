@@ -1,0 +1,9 @@
+Project: Ticket Reservation System:
+Objective: Develop a tool that simulates a ticket reservation system for concerts or events, allowing users to select seats, calculate ticket prices, and generate reservation confirmations.
+Requirements:
+1. Read concert or event information from a text file, including venue information, seating map, ticket prices, and availability.
+2. Display the seating map for the venue.
+3. Allow users to select seats based on availability and user preferences.
+4. Calculate ticket prices based on the selected seats, ticket types, and any applicable discounts or promotions.
+5. Generate reservation confirmations that include the selected seats, ticket types, prices, and total cost.
+6. Handle user error scenarios such as invalid seat selections or unavailable seats.
